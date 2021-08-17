@@ -1,6 +1,6 @@
 #!/bin/bash
 <<<<<<< HEAD
-echo "ALX"
+echo "ALX school"
 =======
-echo "school"
+echo "ALX school"
 >>>>>>> update_script
